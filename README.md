@@ -13,7 +13,7 @@ To analyze key indicators for our insurance business performance, we have identi
 - Total Claims Count: 2K claims have been registered.
 ## CHARTS REQUIREMENT
 To gain insights into key business trends, we have analyzed the following aspects:
--## Policy Holders by Vehicle Type:
+## Policy Holders by Vehicle Type:
 - Top Policy Buyers: Motorcycles (16.2K policies) and Pickups (8.8K) hold the highest share.
 - Least Policies Sold: Tankers (0.4K) and Special Construction Vehicles (0.5K) have the lowest policies.
 - Claim Trends Over Time:
