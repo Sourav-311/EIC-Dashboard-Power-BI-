@@ -9,6 +9,9 @@ To analyze key indicators for our insurance business performance, we have identi
 - Average Premium per Policy: The average premium per policy is $7K.
 - Average Claim per Policy: The average claim per policy is $6K.
 - Total Claims Count: 2K claims have been registered.
+## DashBoard
+![Screenshot 2025-03-31 100139](https://github.com/user-attachments/assets/017cc0e7-92e1-4c9f-b345-5685e2facfc7)
+
 ## CHARTS REQUIREMENT
 To gain insights into key business trends, we have analyzed the following aspects:
 ## Policy Holders by Vehicle Type:
