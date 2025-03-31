@@ -2,9 +2,7 @@
 I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, data cleaning, and data virtualization.
 ## KPI's REQUIREMENT
 To analyze key indicators for our insurance business performance, we have identified the following metrics:
-
 - Total Policies Opened: 57K policies have been issued.
-
 - Total Premium Collected: The total premium amounts to $384M.
 - Total Claims: The total claims filed amount to $337M.
 - Premium to Claim Ratio: The ratio is 114%, indicating that the collected premiums are slightly higher than the total claims.
